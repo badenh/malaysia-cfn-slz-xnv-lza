@@ -1,4 +1,4 @@
-# SLZ → LZA UC converter
+# SLZ → LZA UC converter for Malaysia
 
 Convert CloudFormation-native Landing Zone samples (like
 `aws-samples/sample-malaysia-secure-lz`) into a Landing Zone Accelerator
